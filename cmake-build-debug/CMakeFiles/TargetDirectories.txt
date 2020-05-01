@@ -1,0 +1,12 @@
+C:/Users/37419/CLionProjects/leiketang/cmake-build-debug/CMakeFiles/leiketang.dir
+C:/Users/37419/CLionProjects/leiketang/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/37419/CLionProjects/leiketang/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/37419/CLionProjects/leiketang/cmake-build-debug/homeworks/work1/CMakeFiles/work1.dir
+C:/Users/37419/CLionProjects/leiketang/cmake-build-debug/homeworks/work1/CMakeFiles/edit_cache.dir
+C:/Users/37419/CLionProjects/leiketang/cmake-build-debug/homeworks/work1/CMakeFiles/rebuild_cache.dir
+C:/Users/37419/CLionProjects/leiketang/cmake-build-debug/homeworks/work2/CMakeFiles/work2.dir
+C:/Users/37419/CLionProjects/leiketang/cmake-build-debug/homeworks/work2/CMakeFiles/edit_cache.dir
+C:/Users/37419/CLionProjects/leiketang/cmake-build-debug/homeworks/work2/CMakeFiles/rebuild_cache.dir
+C:/Users/37419/CLionProjects/leiketang/cmake-build-debug/homeworks/work3/CMakeFiles/work3.dir
+C:/Users/37419/CLionProjects/leiketang/cmake-build-debug/homeworks/work3/CMakeFiles/edit_cache.dir
+C:/Users/37419/CLionProjects/leiketang/cmake-build-debug/homeworks/work3/CMakeFiles/rebuild_cache.dir
